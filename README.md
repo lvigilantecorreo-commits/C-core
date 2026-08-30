@@ -45,6 +45,10 @@ r;
 
 Compiles, runs, exits with code 20. The whole pipeline works.
 
+![image alt](https://github.com/lvigilantecorreo-commits/C-core/blob/10fc05a52776954e86f42d795d8de77f18a0c94a/asmoutput1.png)
+
+![image alt](https://github.com/lvigilantecorreo-commits/C-core/blob/10fc05a52776954e86f42d795d8de77f18a0c94a/asmoutput1.png)
+
 ## How it's built
 
 Three phases, one file each, kept intentionally simple:
