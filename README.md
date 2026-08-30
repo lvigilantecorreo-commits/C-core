@@ -63,6 +63,7 @@ Main writes the assembly to `output.asm` in two parts: `main`'s body first, then
 
 You need NASM and the Microsoft linker (`link.exe`) on your PATH. Easiest way on Windows is to open the "x64 Native Tools Command Prompt for VS" so `link.exe` is available.
 
+![image alt](https://github.com/lvigilantecorreo-commits/C-core/blob/73601e6ba3a520e75f24dcf62ba6ce9206356777/testccore.png)
 
 ## Roadmap
 
