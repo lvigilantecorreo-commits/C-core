@@ -21,11 +21,11 @@ Everything above is verified end-to-end: source → tokens → AST → NASM → 
 
 ## Example
 
-int cuadrado(int n) {
+int cube(int n) {
 return n * n;
 }
 
-int suma(int a, int b) {
+int plus(int a, int b) {
 return a + b;
 }
 
@@ -37,7 +37,7 @@ if (z > 15) {
 z = z - 5;
 }
 
-int r = suma(cuadrado(3), z);
+int r = plus(cube(3), z);
 r;
 
 
@@ -74,6 +74,6 @@ This is my first real C++ project of any size (before this I could write a progr
 
 ## License
 
-MIT. Do whatever you want with it, no warranty, if it breaks your machine that's on you.
+MIT.
 
 — Ader
