@@ -47,7 +47,7 @@ Compiles, runs, exits with code 20. The whole pipeline works.
 
 ![image alt](https://github.com/lvigilantecorreo-commits/C-core/blob/10fc05a52776954e86f42d795d8de77f18a0c94a/asmoutput1.png)
 
-![image alt]([https://github.com/lvigilantecorreo-commits/C-core/blob/10fc05a52776954e86f42d795d8de77f18a0c94a/asmoutput1.png](https://github.com/lvigilantecorreo-commits/C-core/blob/27ab9d47bb236bc618ad6acca768025f67f586ef/asmoutput2.png))
+![image alt]([[https://github.com/lvigilantecorreo-commits/C-core/blob/10fc05a52776954e86f42d795d8de77f18a0c94a/asmoutput1.png](https://github.com/lvigilantecorreo-commits/C-core/blob/27ab9d47bb236bc618ad6acca768025f67f586ef/asmoutput2.png)](https://github.com/lvigilantecorreo-commits/C-core/blob/39dc36d1e025aac93f33f1553b570aa40128b899/asmoutput2.png))
 
 ## How it's built
 
