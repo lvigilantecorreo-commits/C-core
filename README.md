@@ -1,6 +1,6 @@
 # C-Core
 
-https://github.com/lvigilantecorreo-commits/C-core/blob/50e86e5896e16c760da9fcaef25365b0ae08ca15/C-Core_logo.png
+![image alt](https://github.com/lvigilantecorreo-commits/C-core/blob/50e86e5896e16c760da9fcaef25365b0ae08ca15/C-Core_logo.png)
 
 A minimal compiler I'm writing from scratch in C++. It takes a small C-like language I made up (C-Core) and outputs real x86-64 assembly for Windows, which then gets assembled with NASM and linked into an actual .exe. No LLVM, no libraries doing the heavy lifting, no bytecode VM. Text goes in, machine code comes out.
 
